@@ -17,3 +17,4 @@ const titleOutputRef = document.querySelector('#title-output');
 inputRef.addEventListener('change', (element) => {
   titleOutputRef.textContent = `Містер ${nameOutputRef.textContent}, приємно познайомитись ;)`;
 });
+//
